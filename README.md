@@ -27,4 +27,3 @@ if you want to sell your Plugin, then just set ispaid to true, to sell the plugi
     "last_update": "2023-11-3"
 }
 ```
-
