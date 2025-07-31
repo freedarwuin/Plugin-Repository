@@ -32,8 +32,8 @@
 		},
 		{
 			"id": "plugin-test-port",
-			"name": "Port Tester",
-			"description": "Check if your server block some port.",
+			"name": "Probador de Puertos",
+			"description": "Verifica si tu servidor bloquea algún puerto.",
 			"ispaid": false,
 			"author": "Freedarwuin",
 			"url": "https://github.com/hotspotbilling/plugin-test-port",
@@ -42,8 +42,8 @@
 		},
 		{
 			"id": "Radius-Client-Tester",
-			"name": "Radius Client Tester",
-			"description": "For testing Radius Server",
+			"name": "Probador de Cliente Radius",
+			"description": "Para probar el servidor Radius",
 			"ispaid": false,
 			"author": "Freedarwuin",
 			"url": "https://github.com/Focuslinkstech/Radius-Client-Tester",
@@ -52,8 +52,8 @@
 		},
 		{
 			"id": "phpnuxbill-clear-cache",
-			"name": "Clear Compiled Cache",
-			"description": "Clear compiled cache files",
+			"name": "Limpiar Caché Compilada",
+			"description": "Borrar archivos de caché compilados",
 			"ispaid": false,
 			"author": "Freedarwuin",
 			"url": "https://github.com/Focuslinkstech/phpnuxbill-clear-cache",
@@ -62,8 +62,8 @@
 		},
 		{
 			"id": "phpnuxbill-sytem-information-plugin",
-			"name": "System Information",
-			"description": "The plugin is used to monitor system or server performance, check running services",
+			"name": "Información del Sistema",
+			"description": "El complemento se utiliza para monitorear el rendimiento del sistema o servidor y verificar los servicios en ejecución",
 			"ispaid": false,
 			"author": "Freedarwuin",
 			"url": "https://github.com/Focuslinkstech/phpnuxbill-sytem-information-plugin",
@@ -72,8 +72,8 @@
 		},
 		{
 			"id": "phpnuxbill-database-backup-and-restore-plugin",
-			"name": "Extended Database Backup and Restore",
-			"description": "This Plugin is used to create database backup, restore, and download, but it is still in development, it has a lot of bugs and needs to be fixed, you can pull a request if errors or bugs, and it will be maintained from time to time",
+			"name": "Copia de Seguridad y Restauración de Base de Datos Extendida",
+			"description": "Este complemento se utiliza para crear copias de seguridad de la base de datos, restaurarlas y descargarlas. Sin embargo, aún está en desarrollo, tiene muchos errores que deben corregirse. Puedes enviar una solicitud si encuentras errores o fallos, y será mantenido periódicamente.",
 			"ispaid": false,
 			"author": "Freedarwuin",
 			"url": "https://github.com/Focuslinkstech/phpnuxbill-database-backup-and-restore-plugin",
@@ -82,8 +82,8 @@
 		},
 		{
 			"id": "phpnuxbill-radius-online-users",
-			"name": "Radius online user viewer",
-			"description": "To see whos online, and can disconect the user",
+			"name": "Visor de Usuarios en Línea de Radius",
+			"description": "Para ver quién está en línea y poder desconectar al usuario",
 			"ispaid": false,
 			"author": "Gerandonks",
 			"url": "https://github.com/gerandonk/phpnuxbill-radius-online-users",
@@ -92,8 +92,8 @@
 		},
 		{
 			"id": "Radius-NAS-Status",
-			"name": "Radius NAS Online Offline Status Checker",
-			"description": "Radius NAS Status Plugin to Check Status About NAS Online / Offline",
+			"name": "Verificador de Estado Online/Offline de Radius NAS",
+			"description": "Complemento de Radius NAS para verificar el estado de los NAS en línea o fuera de línea",
 			"ispaid": false,
 			"author": "pravhjp",
 			"url": "https://github.com/pravhjp/Radius-NAS-Status",
@@ -102,8 +102,8 @@
 		},
 		{
 			"id": "WhatsApp-Gateway-Plugin-for-PHPNuxBill",
-			"name": "Whatsapp Gateway",
-			"description": "Whatsapp Gateway Client Multiple Phone Number, random send.",
+			"name": "Puerta de Enlace de Whatsapp",
+			"description": "Cliente de puerta de enlace de Whatsapp con múltiples números de teléfono, envío aleatorio.",
 			"ispaid": false,
 			"author": "Freedarwuin",
 			"url": "https://github.com/hotspotbilling/WhatsApp-Gateway-Plugin-for-PHPNuxBill",
@@ -112,8 +112,8 @@
 		},
 		{
 			"id": "phpnuxbill-suspension-page-plugin",
-			"name": "Suspension and Payment Page",
-			"description": "Suspension Page with payment processing page, its designed to ease customer payment, with user verification, This plugin is free but you have purchased the payment gateway.",
+			"name": "Página de Suspensión y Pago",
+			"description": "Página de suspensión con procesamiento de pagos, diseñada para facilitar el pago de los clientes con verificación de usuario. Este complemento es gratuito, pero debes haber adquirido la pasarela de pago.",
 			"ispaid": false,
 			"author": "Freedarwuin",
 			"url": "https://t.me/focuslinkstech",
@@ -159,7 +159,7 @@
 			"ispaid": false,
 			"author": "Freedarwuin",
 			"url": "https://paypal.com",
-			"github": "https://github.com/hotspotbilling/phpnuxbill-paypal",
+			"github": "https://github.com/freedarwuin/NetBillX-paypal",
 			"last_update": "2023-03-12"
 		}
 	],
