@@ -85,7 +85,7 @@
 			"name": "Visor de Usuarios en Línea de Radius",
 			"description": "Para ver quién está en línea y poder desconectar al usuario",
 			"ispaid": false,
-			"author": "Gerandonks",
+			"author": "Freedarwuin",
 			"url": "https://github.com/gerandonk/phpnuxbill-radius-online-users",
 			"github": "https://github.com/gerandonk/phpnuxbill-radius-online-users",
 			"last_update": "2024-02-08"
@@ -95,7 +95,7 @@
 			"name": "Verificador de Estado Online/Offline de Radius NAS",
 			"description": "Complemento de Radius NAS para verificar el estado de los NAS en línea o fuera de línea",
 			"ispaid": false,
-			"author": "pravhjp",
+			"author": "Freedarwuin",
 			"url": "https://github.com/pravhjp/Radius-NAS-Status",
 			"github": "https://github.com/pravhjp/Radius-NAS-Status",
 			"last_update": "2024-08-09"
@@ -122,8 +122,8 @@
 		},
 		{
 			"id": "phpnuxbill-recharge-cards-plugin",
-			"name": "Recharge Cards Plugin",
-			"description": "Sell recharge cards to you cstomers with peace of mind and security.",
+			"name": "Complemento de Tarjetas de Recarga",
+			"description": "Vende tarjetas de recarga a tus clientes con tranquilidad y seguridad.",
 			"ispaid": false,
 			"author": "Freedarwuin",
 			"url": "https://t.me/focuslinkstech",
@@ -132,7 +132,7 @@
 		},
 		{
 			"id": "plugin-go-snmp-olt-zte-c320",
-			"name": "Go snmp OLT ZTE C320",
+			"name": "Ir a SNMP OLT ZTE C320",
 			"description": "Interface for Go snmp OLT ZTE C320",
 			"ispaid": false,
 			"author": "Freedarwuin",
@@ -142,8 +142,8 @@
 		},
 		{
 			"id": "Verimor-SMS-Gateway",
-			"name": "Verimor SMS Gateway",
-			"description": "Türkiye’nin lider operatörleriyle doğrudan bağlantılar, ISO sertifikalı güvenli altyapı ve inovasyon odaklı AR-GE gücümüzle, iş ihtiyaçlarınıza özel, ölçeklenebilir çözümler sunuyoruz.",
+			"name": "Pasarela SMS de Verimor",
+			"description": "Con conexiones directas a los principales operadores de Turquía, una infraestructura segura con certificación ISO y nuestra capacidad de I+D centrada en la innovación, ofrecemos soluciones escalables adaptadas a las necesidades de su negocio.",
 			"ispaid": false,
 			"author": "Freedarwuin",
 			"url": "https://github.com/hotspotbilling/Verimor-SMS-Gateway",
@@ -153,9 +153,9 @@
 	],
 	"payment_gateway": [
 		{
-			"id": "phpnuxbill-paypal",
+			"id": "NetBillX-paypal",
 			"name": "Paypal",
-			"description": "Paypal Gateway, Country supported by Paypal",
+			"description": "Pasarela de Paypal, países compatibles con Paypal.",
 			"ispaid": false,
 			"author": "Freedarwuin",
 			"url": "https://paypal.com",
@@ -166,8 +166,8 @@
 	"devices": [
 		{
 			"id": "Voucher-Device",
-			"name": "Voucher",
-			"description": "Customer can buy Voucher, it can activate later or give it as a Gift. Only for PHPNuxBill Version 2024.8.8 and above",
+			"name": "Ticket",
+			"description": "El cliente puede comprar un Ticket, activarlo más tarde o darlo como regalo. Solo para PHPNuxBill versión 2024.8.8 y superiores.",
 			"ispaid": false,
 			"author": "Freedarwuin",
 			"url": "https://github.com/hotspotbilling/Voucher-Device",
@@ -177,7 +177,7 @@
 		{
 			"id": "Chillispot-Device",
 			"name": "Chillispot",
-			"description": "Hotspot Voucher using Chilispot Openwrt and Radius Mysql",
+			"description": "Cupón de punto de acceso con Chilispot Openwrt y Radius Mysql",
 			"ispaid": false,
 			"author": "Arneta.ID",
 			"url": "https://github.com/hotspotbilling/Chillispot-Device",
@@ -186,8 +186,8 @@
 		},
         {
             "id": "Mikrotik-StaticIP",
-            "name": "Mikrotik Static IP",
-            "description": "Can Add Static user under PPPoE Plan and use PPPoE IP",
+            "name": "IP estática de Mikrotik",
+            "description": "Puede agregar un usuario estático al plan PPPoE y usar la IP PPPoE",
             "ispaid": false,
             "author": "Gerandonk",
             "url": "https://github.com/gerandonk/Mikrotik-StaticIP",
