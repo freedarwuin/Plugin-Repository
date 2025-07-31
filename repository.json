@@ -154,8 +154,8 @@
 	"payment_gateway": [
 		{
 			"id": "NetBillX-Binance Pay",
-			"name": "Paypal",
-			"description": "Pasarela de Paypal, países compatibles con Paypal.",
+			"name": "Binance Pay",
+			"description": "Pasarela de Binance Pay.",
 			"ispaid": false,
 			"author": "Freedarwuin",
 			"url": "https://Binance.com",
