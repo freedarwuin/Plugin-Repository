@@ -188,7 +188,7 @@
 			"id": "Chillispot-Device",
 			"name": "Chillispot",
 			"description": "Cupón de punto de acceso con Chilispot Openwrt y Radius Mysql",
-			"ispaid": true,
+			"ispaid": false,
 			"author": "Freedarwuin",
 			"url": "https://github.com/hotspotbilling/Chillispot-Device",
 			"github": "https://github.com/hotspotbilling/Chillispot-Device",
