@@ -51,23 +51,23 @@
 			"last_update": "2023-10-17"
 		},
 		{
-			"id": "phpnuxbill-clear-cache",
+			"id": "NetBillX-clear-cache",
 			"name": "Limpiar Caché Compilada",
 			"description": "Borrar archivos de caché compilados",
 			"ispaid": false,
 			"author": "Freedarwuin",
-			"url": "https://github.com/Focuslinkstech/phpnuxbill-clear-cache",
-			"github": "https://github.com/Focuslinkstech/phpnuxbill-clear-cache",
+			"url": "https://github.com/freedarwuin/NetBillX-clear-cache",
+			"github": "https://github.com/freedarwuin/NetBillX-clear-cache",
 			"last_update": "2023-10-25"
 		},
 		{
-			"id": "phpnuxbill-sytem-information-plugin",
+			"id": "NetBillX-sytem-information-plugin",
 			"name": "Información del Sistema",
 			"description": "El complemento se utiliza para monitorear el rendimiento del sistema o servidor y verificar los servicios en ejecución",
 			"ispaid": false,
 			"author": "Freedarwuin",
-			"url": "https://github.com/Focuslinkstech/phpnuxbill-sytem-information-plugin",
-			"github": "https://github.com/Focuslinkstech/phpnuxbill-sytem-information-plugin",
+			"url": "https://github.com/freedarwuin/NetBillX-sytem-information-plugin",
+			"github": "https://github.com/freedarwuin/NetBillX-sytem-information-plugin",
 			"last_update": "2023-11-3"
 		},
 		{
@@ -76,8 +76,8 @@
 			"description": "Este complemento se utiliza para crear copias de seguridad de la base de datos, restaurarlas y descargarlas. Sin embargo, aún está en desarrollo, tiene muchos errores que deben corregirse. Puedes enviar una solicitud si encuentras errores o fallos, y será mantenido periódicamente.",
 			"ispaid": false,
 			"author": "Freedarwuin",
-			"url": "https://github.com/Focuslinkstech/phpnuxbill-database-backup-and-restore-plugin",
-			"github": "https://github.com/Focuslinkstech/phpnuxbill-database-backup-and-restore-plugin",
+			"url": "https://github.com/freedarwuin/NetBillX-database-backup-and-restore-plugin",
+			"github": "https://github.com/freedarwuin/NetBillX-database-backup-and-restore-plugin",
 			"last_update": "2023-11-3"
 		},
 		{
@@ -96,8 +96,8 @@
 			"description": "Complemento de Radius NAS para verificar el estado de los NAS en línea o fuera de línea",
 			"ispaid": false,
 			"author": "Freedarwuin",
-			"url": "https://github.com/pravhjp/Radius-NAS-Status",
-			"github": "https://github.com/pravhjp/Radius-NAS-Status",
+			"url": "https://github.com/freedarwuin/Radius-NAS-Status",
+			"github": "https://github.com/freedarwuin/Radius-NAS-Status",
 			"last_update": "2024-08-09"
 		},
 		{
@@ -117,7 +117,7 @@
 			"ispaid": false,
 			"author": "Freedarwuin",
 			"url": "https://t.me/focuslinkstech",
-			"github": "https://github.com/Focuslinkstech/phpnuxbill-suspension-page-plugin",
+			"github": "https://github.com/freedarwuin/NetBillX-suspension-page-plugin",
 			"last_update": "2024-08-14"
 		},
 		{
@@ -127,7 +127,7 @@
 			"ispaid": false,
 			"author": "Freedarwuin",
 			"url": "https://t.me/focuslinkstech",
-			"github": "https://github.com/Focuslinkstech/phpnuxbill-recharge-cards-plugin",
+			"github": "https://github.com/freedarwuin/phpnuxbill-recharge-cards-plugin",
 			"last_update": "2024-10-20"
 		},
 		{
@@ -180,16 +180,16 @@
 			"description": "El cliente puede comprar un Ticket, activarlo más tarde o darlo como regalo. Solo para NetBillX versión 2024.8.8 y superiores.",
 			"ispaid": false,
 			"author": "Freedarwuin",
-			"url": "https://github.com/hotspotbilling/Voucher-Device",
-			"github": "https://github.com/hotspotbilling/Voucher-Device",
+			"url": "https://github.com/freedarwuin/Voucher-Device",
+			"github": "https://github.com/freedarwuin/Voucher-Device",
 			"last_update": "2024-8-8"
 		},
 		{
 			"id": "Chillispot-Device",
 			"name": "Chillispot",
 			"description": "Cupón de punto de acceso con Chilispot Openwrt y Radius Mysql",
-			"ispaid": false,
-			"author": "Arneta.ID",
+			"ispaid": true,
+			"author": "Freedarwuin",
 			"url": "https://github.com/hotspotbilling/Chillispot-Device",
 			"github": "https://github.com/hotspotbilling/Chillispot-Device",
 			"last_update": "2024-8-13"
@@ -199,9 +199,9 @@
             "name": "IP estática de Mikrotik",
             "description": "Puede agregar un usuario estático al plan PPPoE y usar la IP PPPoE",
             "ispaid": false,
-            "author": "Gerandonk",
-            "url": "https://github.com/gerandonk/Mikrotik-StaticIP",
-            "github": "https://github.com/gerandonk/Mikrotik-StaticIP",
+            "author": "Freedarwuin",
+            "url": "https://github.com/freedarwuin/Mikrotik-StaticIP",
+            "github": "https://github.com/freedarwuin/Mikrotik-StaticIP",
             "last_update": "2024-10-25"
         }
 	]
