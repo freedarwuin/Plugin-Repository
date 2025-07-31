@@ -1,23 +1,23 @@
 {
 	"plugins": [
 		{
-			"id": "phpnuxbill-router-monitor-plugin",
+			"id": "NetBillX-router-monitor-plugin",
 			"name": "Monitoreo de Mikrotik",
 			"description": "Este complemento se creó para monitorear el enrutador Mikrotik desde NetBillX y sus características incluyen: información del sistema del enrutador, monitoreo de interfaz, usuarios de punto de acceso en línea, usuarios de PPPoE en línea, etc.",
 			"ispaid": false,
 			"author": "Freedarwuin",
-			"url": "https://github.com/Focuslinkstech/phpnuxbill-router-monitor-plugin",
-			"github": "https://github.com/Focuslinkstech/phpnuxbill-router-monitor-plugin",
+			"url": "https://github.com/freedarwuin/NetBillX-router-monitor-plugin",
+			"github": "https://github.com/freedarwuin/NetBillX-router-monitor-plugin",
 			"last_update": "2023-11-12"
 		},
 		{
-			"id": "phpnuxbill-plugin-mikrotik-import",
+			"id": "NetBillX-plugin-mikrotik-import",
 			"name": "Importación de Mikrotik",
 			"description": "Importa el paquete y los usuarios de Mikrotik Hotspot existentes a NetBillX. Este script importará Usuarios y Perfiles, pero no añadirá paquetes activos al usuario.",
 			"ispaid": false,
 			"author": "Freedarwuin",
-			"url": "https://github.com/hotspotbilling/phpnuxbill-plugin-mikrotik-import",
-			"github": "https://github.com/hotspotbilling/phpnuxbill-plugin-mikrotik-import",
+			"url": "https://github.com/freedarwuin/NetBillX-plugin-mikrotik-import",
+			"github": "https://github.com/freedarwuin/NetBillX-plugin-mikrotik-import",
 			"last_update": "2022-12-14"
 		},
 		{
