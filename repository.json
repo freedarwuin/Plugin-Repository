@@ -153,6 +153,16 @@
 	],
 	"payment_gateway": [
 		{
+			"id": "NetBillX-bdv",
+			"name": "Banco de Venezuela (BDV)",
+			"description": "Pasarela de Banco de Venezuela (BDV)",
+			"ispaid": false,
+			"author": "Freedarwuin",
+			"url": "https://Binance.com",
+			"github": "https://github.com/freedarwuin/NetBillX-bdv",
+			"last_update": "2025-03-12"
+		},
+		{
 			"id": "NetBillX-Binance-Pay",
 			"name": "Binance Pay",
 			"description": "Pasarela de Binance Pay.",
