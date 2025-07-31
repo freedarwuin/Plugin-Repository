@@ -5,7 +5,7 @@
 			"name": "Monitoreo de Mikrotik",
 			"description": "Este complemento se creó para monitorear el enrutador Mikrotik desde PHPNuxBill y sus características incluyen: información del sistema del enrutador, monitoreo de interfaz, usuarios de punto de acceso en línea, usuarios de PPPoE en línea, etc.",
 			"ispaid": false,
-			"author": "Focuslinkstech",
+			"author": "Freedarwuin",
 			"url": "https://github.com/Focuslinkstech/phpnuxbill-router-monitor-plugin",
 			"github": "https://github.com/Focuslinkstech/phpnuxbill-router-monitor-plugin",
 			"last_update": "2023-11-12"
@@ -15,7 +15,7 @@
 			"name": "Importación de Mikrotik",
 			"description": "Importa el paquete y los usuarios de Mikrotik Hotspot existentes a PHPNuxBill. Este script importará Usuarios y Perfiles, pero no añadirá paquetes activos al usuario.",
 			"ispaid": false,
-			"author": "ibnux",
+			"author": "Freedarwuin",
 			"url": "https://github.com/hotspotbilling/phpnuxbill-plugin-mikrotik-import",
 			"github": "https://github.com/hotspotbilling/phpnuxbill-plugin-mikrotik-import",
 			"last_update": "2022-12-14"
@@ -25,7 +25,7 @@
 			"name": "Prueba de Velocidad de Internet",
 			"description": "El complemento Speedtest está diseñado para proporcionar a los usuarios una forma fácil y eficiente de medir la velocidad de su conexión a internet directamente desde la interfaz de PHPNuxBill.",
 			"ispaid": false,
-			"author": "Focuslinkstech",
+			"author": "Freedarwuin",
 			"url": "https://github.com/Focuslinkstech/phpnuxbill-Internet-speedtest-plugin",
 			"github": "https://github.com/Focuslinkstech/phpnuxbill-Internet-speedtest-plugin",
 			"last_update": "2024-06-8"
@@ -35,7 +35,7 @@
 			"name": "Port Tester",
 			"description": "Check if your server block some port.",
 			"ispaid": false,
-			"author": "ibnux",
+			"author": "Freedarwuin",
 			"url": "https://github.com/hotspotbilling/plugin-test-port",
 			"github": "https://github.com/hotspotbilling/plugin-test-port",
 			"last_update": "2023-08-23"
@@ -45,7 +45,7 @@
 			"name": "Radius Client Tester",
 			"description": "For testing Radius Server",
 			"ispaid": false,
-			"author": "Focuslinkstech",
+			"author": "Freedarwuin",
 			"url": "https://github.com/Focuslinkstech/Radius-Client-Tester",
 			"github": "https://github.com/Focuslinkstech/Radius-Client-Tester",
 			"last_update": "2023-10-17"
@@ -55,7 +55,7 @@
 			"name": "Clear Compiled Cache",
 			"description": "Clear compiled cache files",
 			"ispaid": false,
-			"author": "Focuslinkstech",
+			"author": "Freedarwuin",
 			"url": "https://github.com/Focuslinkstech/phpnuxbill-clear-cache",
 			"github": "https://github.com/Focuslinkstech/phpnuxbill-clear-cache",
 			"last_update": "2023-10-25"
@@ -65,7 +65,7 @@
 			"name": "System Information",
 			"description": "The plugin is used to monitor system or server performance, check running services",
 			"ispaid": false,
-			"author": "Focuslinkstech",
+			"author": "Freedarwuin",
 			"url": "https://github.com/Focuslinkstech/phpnuxbill-sytem-information-plugin",
 			"github": "https://github.com/Focuslinkstech/phpnuxbill-sytem-information-plugin",
 			"last_update": "2023-11-3"
@@ -75,7 +75,7 @@
 			"name": "Extended Database Backup and Restore",
 			"description": "This Plugin is used to create database backup, restore, and download, but it is still in development, it has a lot of bugs and needs to be fixed, you can pull a request if errors or bugs, and it will be maintained from time to time",
 			"ispaid": false,
-			"author": "Focuslinkstech",
+			"author": "Freedarwuin",
 			"url": "https://github.com/Focuslinkstech/phpnuxbill-database-backup-and-restore-plugin",
 			"github": "https://github.com/Focuslinkstech/phpnuxbill-database-backup-and-restore-plugin",
 			"last_update": "2023-11-3"
@@ -105,7 +105,7 @@
 			"name": "Whatsapp Gateway",
 			"description": "Whatsapp Gateway Client Multiple Phone Number, random send.",
 			"ispaid": false,
-			"author": "ibnux",
+			"author": "Freedarwuin",
 			"url": "https://github.com/hotspotbilling/WhatsApp-Gateway-Plugin-for-PHPNuxBill",
 			"github": "https://github.com/hotspotbilling/WhatsApp-Gateway-Plugin-for-PHPNuxBill",
 			"last_update": "2024-06-27"
@@ -115,7 +115,7 @@
 			"name": "Suspension and Payment Page",
 			"description": "Suspension Page with payment processing page, its designed to ease customer payment, with user verification, This plugin is free but you have purchased the payment gateway.",
 			"ispaid": false,
-			"author": "Focuslinkstech",
+			"author": "Freedarwuin",
 			"url": "https://t.me/focuslinkstech",
 			"github": "https://github.com/Focuslinkstech/phpnuxbill-suspension-page-plugin",
 			"last_update": "2024-08-14"
@@ -125,7 +125,7 @@
 			"name": "Recharge Cards Plugin",
 			"description": "Sell recharge cards to you cstomers with peace of mind and security.",
 			"ispaid": false,
-			"author": "Focuslinkstech",
+			"author": "Freedarwuin",
 			"url": "https://t.me/focuslinkstech",
 			"github": "https://github.com/Focuslinkstech/phpnuxbill-recharge-cards-plugin",
 			"last_update": "2024-10-20"
@@ -135,7 +135,7 @@
 			"name": "Go snmp OLT ZTE C320",
 			"description": "Interface for Go snmp OLT ZTE C320",
 			"ispaid": false,
-			"author": "ibnux",
+			"author": "Freedarwuin",
 			"url": "https://github.com/hotspotbilling/go-snmp-olt-zte-c320",
 			"github": "https://github.com/hotspotbilling/plugin-go-snmp-olt-zte-c320",
 			"last_update": "2024-11-1"
@@ -145,7 +145,7 @@
 			"name": "Verimor SMS Gateway",
 			"description": "Türkiye’nin lider operatörleriyle doğrudan bağlantılar, ISO sertifikalı güvenli altyapı ve inovasyon odaklı AR-GE gücümüzle, iş ihtiyaçlarınıza özel, ölçeklenebilir çözümler sunuyoruz.",
 			"ispaid": false,
-			"author": "ibnux",
+			"author": "Freedarwuin",
 			"url": "https://github.com/hotspotbilling/Verimor-SMS-Gateway",
 			"github": "https://github.com/hotspotbilling/Verimor-SMS-Gateway",
 			"last_update": "2025-07-29"
@@ -157,7 +157,7 @@
 			"name": "Paypal",
 			"description": "Paypal Gateway, Country supported by Paypal",
 			"ispaid": false,
-			"author": "ibnux",
+			"author": "Freedarwuin",
 			"url": "https://paypal.com",
 			"github": "https://github.com/hotspotbilling/phpnuxbill-paypal",
 			"last_update": "2023-03-12"
@@ -169,7 +169,7 @@
 			"name": "Voucher",
 			"description": "Customer can buy Voucher, it can activate later or give it as a Gift. Only for PHPNuxBill Version 2024.8.8 and above",
 			"ispaid": false,
-			"author": "ibnux",
+			"author": "Freedarwuin",
 			"url": "https://github.com/hotspotbilling/Voucher-Device",
 			"github": "https://github.com/hotspotbilling/Voucher-Device",
 			"last_update": "2024-8-8"

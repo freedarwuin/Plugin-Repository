@@ -4,7 +4,7 @@
         "name": "Paypal",
         "description": "Paypal Gateway, Country supported by Paypal",
         "ispaid": false,
-        "author": "ibnux",
+        "author": "Freedarwuin",
         "url": "https://paypal.com",
         "github": "https://github.com/hotspotbilling/phpnuxbill-paypal",
         "last_update": "2023-03-12"
@@ -14,7 +14,7 @@
         "name": "Duitku *Rekomendasi*",
         "description": "Duitku Direkomendasikan untuk pengguna di Indonesia, klik Website untuk melakukan pendaftaran",
         "ispaid": false,
-        "author": "ibnux",
+        "author": "Freedarwuin",
         "url": "https://hs.aspireapp.com/id/phpnuxbill-aspire",
         "github": "https://github.com/hotspotbilling/phpnuxbill-duitku",
         "last_update": "2023-03-12"
@@ -24,7 +24,7 @@
         "name": "Tripay",
         "description": "Tripay only in Indonesia",
         "ispaid": false,
-        "author": "ibnux",
+        "author": "Freedarwuin",
         "url": "https://tripay.co.id/?ref=TP19304",
         "github": "https://github.com/hotspotbilling/phpnuxbill-tripay",
         "last_update": "2023-09-27"
@@ -34,7 +34,7 @@
         "name": "Tripay Proxy",
         "description": "Tripay only in Indonesia. Payment Gateway ini untuk pengguna NuxBill yang tidak punya IP static",
         "ispaid": false,
-        "author": "ibnux",
+        "author": "Freedarwuin",
         "url": "https://tripay.co.id/?ref=TP19304",
         "github": "https://github.com/hotspotbilling/phpnuxbill-tripay-proxy",
         "last_update": "2023-09-27"
@@ -44,7 +44,7 @@
         "name": "Xendit",
         "description": "xendit only in Indonesia, Phillipine untested",
         "ispaid": false,
-        "author": "ibnux",
+        "author": "Freedarwuin",
         "url": "https://xendit.com",
         "github": "https://github.com/hotspotbilling/phpnuxbill-xendit",
         "last_update": "2023-03-12"
@@ -64,7 +64,7 @@
         "name": "bKash",
         "description": "Payment Gateway for Bangladesh",
         "ispaid": false,
-        "author": "ibnux",
+        "author": "Freedarwuin",
         "url": "https://www.bkash.com",
         "github": "https://github.com/hotspotbilling/phpnuxbill-bkash",
         "last_update": "2023-7-7"
@@ -74,7 +74,7 @@
         "name": "Flutterwave",
         "description": "Payment Gateway FlutterWave",
         "ispaid": false,
-        "author": "Focuslinkstech",
+        "author": "Freedarwuin",
         "url": "https://github.com/Focuslinkstech/phpnuxbill-flutterwave-payment-gateway",
         "github": "https://github.com/hotspotbilling/phpnuxbill-flutterwave-payment-gateway",
         "last_update": "2023-7-28"
@@ -84,7 +84,7 @@
         "name": "Paystack",
         "description": "Payment Gateway Paystack.com",
         "ispaid": false,
-        "author": "Focuslinkstech",
+        "author": "Freedarwuin",
         "url": "https://github.com/Focuslinkstech/phpnuxbill-paystack-payment-gateway",
         "github": "https://github.com/hotspotbilling/phpnuxbill-paystack-payment-gateway",
         "last_update": "2023-7-28"
@@ -104,7 +104,7 @@
         "name": "Stripe | Paid Plugin",
         "description": "Payment Gateway Stripe.com, paid plugin, To download this, you need to setup Github Authentication",
         "ispaid": true,
-        "author": "ibnux",
+        "author": "Freedarwuin",
         "url": "https://ibnux.github.io/pnb-plugin-shop/",
         "github": "https://github.com/hotspotbilling/Stripe-Payment-Gateway",
         "last_update": "2024-8-1"
@@ -114,7 +114,7 @@
         "name": "Hitpay",
         "description": "Hitpay helps over 15,000 businesses across Southeast Asia and around the globe process payments efficiently and securely. We unify online, point of sale, and B2B payments into a single, integrated payment processing system.",
         "ispaid": true,
-        "author": "ibnux",
+        "author": "Freedarwuin",
         "url": "https://ibnux.github.io/pnb-plugin-shop/",
         "github": "https://github.com/hotspotbilling/PHPNuxBill-Hitpayapp-Payment-Gateway",
         "last_update": "2024-8-14"
