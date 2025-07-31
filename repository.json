@@ -3,7 +3,7 @@
 		{
 			"id": "phpnuxbill-router-monitor-plugin",
 			"name": "Monitoreo de Mikrotik",
-			"description": "This plugin is created to monitor Mikrotik Router from PHPNuxBill and its features include: Router System Information, Interface Monitoring, Online Hotspot Users, Online PPPoE Users. e.t.c ",
+			"description": "Este complemento se creó para monitorear el enrutador Mikrotik desde PHPNuxBill y sus características incluyen: información del sistema del enrutador, monitoreo de interfaz, usuarios de punto de acceso en línea, usuarios de PPPoE en línea, etc.",
 			"ispaid": false,
 			"author": "Focuslinkstech",
 			"url": "https://github.com/Focuslinkstech/phpnuxbill-router-monitor-plugin",
