@@ -21,13 +21,13 @@
 			"last_update": "2022-12-14"
 		},
 		{
-			"id": "phpnuxbill-Internet-speedtest-plugin",
+			"id": "NetBillX-Internet-speedtest-plugin",
 			"name": "Prueba de Velocidad de Internet",
 			"description": "El complemento Speedtest está diseñado para proporcionar a los usuarios una forma fácil y eficiente de medir la velocidad de su conexión a internet directamente desde la interfaz de NetBillX.",
 			"ispaid": false,
 			"author": "Freedarwuin",
-			"url": "https://github.com/Focuslinkstech/phpnuxbill-Internet-speedtest-plugin",
-			"github": "https://github.com/Focuslinkstech/phpnuxbill-Internet-speedtest-plugin",
+			"url": "https://github.com/freedarwuin/NetBillX-Internet-speedtest-plugin",
+			"github": "https://github.com/freedarwuin/NetBillX-Internet-speedtest-plugin",
 			"last_update": "2024-06-8"
 		},
 		{
