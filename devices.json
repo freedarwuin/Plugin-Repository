@@ -1,8 +1,8 @@
 [
     {
         "id": "Voucher-Device",
-        "name": "Voucher",
-        "description": "Customer can buy Voucher, it can activate later or give it as a Gift. Only for PHPNuxBill Version 2024.8.8 and above",
+        "name": "Ticket",
+        "description": "El cliente puede comprar un ticket, activarlo más tarde o darlo como regalo. Solo para PHPNuxBill versión 2024.8.8 y superiores.",
         "ispaid": false,
         "author": "Freedarwuin",
         "url": "https://github.com/hotspotbilling/Voucher-Device",
