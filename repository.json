@@ -3,7 +3,7 @@
 		{
 			"id": "phpnuxbill-router-monitor-plugin",
 			"name": "Monitoreo de Mikrotik",
-			"description": "Este complemento se creó para monitorear el enrutador Mikrotik desde PHPNuxBill y sus características incluyen: información del sistema del enrutador, monitoreo de interfaz, usuarios de punto de acceso en línea, usuarios de PPPoE en línea, etc.",
+			"description": "Este complemento se creó para monitorear el enrutador Mikrotik desde NetBillX y sus características incluyen: información del sistema del enrutador, monitoreo de interfaz, usuarios de punto de acceso en línea, usuarios de PPPoE en línea, etc.",
 			"ispaid": false,
 			"author": "Freedarwuin",
 			"url": "https://github.com/Focuslinkstech/phpnuxbill-router-monitor-plugin",
@@ -13,7 +13,7 @@
 		{
 			"id": "phpnuxbill-plugin-mikrotik-import",
 			"name": "Importación de Mikrotik",
-			"description": "Importa el paquete y los usuarios de Mikrotik Hotspot existentes a PHPNuxBill. Este script importará Usuarios y Perfiles, pero no añadirá paquetes activos al usuario.",
+			"description": "Importa el paquete y los usuarios de Mikrotik Hotspot existentes a NetBillX. Este script importará Usuarios y Perfiles, pero no añadirá paquetes activos al usuario.",
 			"ispaid": false,
 			"author": "Freedarwuin",
 			"url": "https://github.com/hotspotbilling/phpnuxbill-plugin-mikrotik-import",
@@ -23,7 +23,7 @@
 		{
 			"id": "phpnuxbill-Internet-speedtest-plugin",
 			"name": "Prueba de Velocidad de Internet",
-			"description": "El complemento Speedtest está diseñado para proporcionar a los usuarios una forma fácil y eficiente de medir la velocidad de su conexión a internet directamente desde la interfaz de PHPNuxBill.",
+			"description": "El complemento Speedtest está diseñado para proporcionar a los usuarios una forma fácil y eficiente de medir la velocidad de su conexión a internet directamente desde la interfaz de NetBillX.",
 			"ispaid": false,
 			"author": "Freedarwuin",
 			"url": "https://github.com/Focuslinkstech/phpnuxbill-Internet-speedtest-plugin",
@@ -167,7 +167,7 @@
 		{
 			"id": "Voucher-Device",
 			"name": "Ticket",
-			"description": "El cliente puede comprar un Ticket, activarlo más tarde o darlo como regalo. Solo para PHPNuxBill versión 2024.8.8 y superiores.",
+			"description": "El cliente puede comprar un Ticket, activarlo más tarde o darlo como regalo. Solo para NetBillX versión 2024.8.8 y superiores.",
 			"ispaid": false,
 			"author": "Freedarwuin",
 			"url": "https://github.com/hotspotbilling/Voucher-Device",
