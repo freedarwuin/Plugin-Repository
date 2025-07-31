@@ -166,7 +166,7 @@
 	"devices": [
 		{
 			"id": "Voucher-Device",
-			"name": "Ticket2222",
+			"name": "Ticket",
 			"description": "El cliente puede comprar un Ticket, activarlo más tarde o darlo como regalo. Solo para PHPNuxBill versión 2024.8.8 y superiores.",
 			"ispaid": false,
 			"author": "Freedarwuin",
