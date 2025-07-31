@@ -11,7 +11,7 @@
 	},
 	{
 		"id": "phpnuxbill-plugin-mikrotik-import",
-		"name": "Mikrotik Import",
+		"name": "Importación de Mikrotik",
 		"description": "Import existing Mikrotik Hotspot Package and User to PHPNuxBill. This script will import Users and Profiles, but will not add active packages to user.",
 		"ispaid": false,
 		"author": "ibnux",
