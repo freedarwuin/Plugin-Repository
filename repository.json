@@ -6,8 +6,8 @@
 			"description": "Este complemento se creó para monitorear el enrutador Mikrotik desde NetBillX y sus características incluyen: información del sistema del enrutador, monitoreo de interfaz, usuarios de punto de acceso en línea, usuarios de PPPoE en línea, etc.",
 			"ispaid": false,
 			"author": "Freedarwuin",
-			"url": "https://github.com/freedarwuin/phpnuxbill-router-monitor-plugin",
-			"github": "https://github.com/freedarwuin/phpnuxbill-router-monitor-plugin",
+			"url": "https://github.com/freedarwuin/NetBillX-router-monitor-plugin",
+			"github": "https://github.com/freedarwuin/NetBillX-router-monitor-plugin",
 			"last_update": "2023-11-12"
 		},
 		{
