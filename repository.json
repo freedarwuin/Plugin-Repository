@@ -3,7 +3,7 @@
         {
             "id": "NetBillX-Assets-Manager",
             "name": "NetBillX Assets Manager",
-            "description": "The Asset Manager is a comprehensive plugin for NetBillX that provides organizations with powerful tools to track, manage, and report on their physical and digital assets. This module seamlessly integrates with the PHPNuxBill platform, offering a complete asset lifecycle management solution.",
+            "description": "Asset Manager es un complemento integral para NetBillX que proporciona a las organizaciones herramientas potentes para rastrear, gestionar y generar informes sobre sus activos físicos y digitales. Este módulo se integra a la perfección con la plataforma PHPNuxBill, ofreciendo una solución completa para la gestión del ciclo de vida de los activos.",
             "ispaid": false,
             "author": "Freedarwuin",
             "url": "https://github.com/freedarwuin/NetBillX-Assets-Manager",
