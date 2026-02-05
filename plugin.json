@@ -1,5 +1,15 @@
 [
-	{
+  {
+    "id": "NetBillX-Assets-Manager",
+    "name": "NetBillX Assets Manager",
+    "description": "Asset Manager es un complemento integral para NetBillX que proporciona a las organizaciones herramientas potentes para rastrear, gestionar y generar informes sobre sus activos físicos y digitales. Este módulo se integra a la perfección con la plataforma NetBillX, ofreciendo una solución completa para la gestión del ciclo de vida de los activos.",
+    "ispaid": false,
+    "author": "Freedarwuin",
+    "url": "https://github.com/freedarwuin/NetBillX-Assets-Manager",
+    "github": "https://github.com/freedarwuin/NetBillX-Assets-Manager",
+    "last_update": "2026-02-4"
+  }
+,{
 		"id": "plugin-router-monitor",
 		"name": "Monitoreo de Mikrotik",
 		"description": "Este complemento se creó para monitorear el enrutador Mikrotik desde PHPNuxBill y sus características incluyen: información del sistema del enrutador, monitoreo de interfaz, usuarios de punto de acceso en línea, usuarios de PPPoE en línea, etc.",
@@ -169,14 +179,14 @@
 		"github": "https://github.com/hotspotbilling/Twilio-Plugin",
 		"last_update": "2024-07-2"
 	},
-    {
-        "id": "plugin-go-snmp-olt-zte-c320",
-        "name": "Go snmp OLT ZTE C320",
-        "description": "Interface for Go snmp OLT ZTE C320",
-        "ispaid": false,
-        "author": "Freedarwuin",
-        "url": "https://github.com/hotspotbilling/go-snmp-olt-zte-c320",
-        "github": "https://github.com/hotspotbilling/plugin-go-snmp-olt-zte-c320",
-        "last_update": "2024-11-1"
-    }
+  {
+    "id": "plugin-go-snmp-olt-zte-c320",
+    "name": "Go snmp OLT ZTE C320",
+    "description": "Interface for Go snmp OLT ZTE C320",
+    "ispaid": false,
+    "author": "Freedarwuin",
+    "url": "https://github.com/hotspotbilling/go-snmp-olt-zte-c320",
+    "github": "https://github.com/hotspotbilling/plugin-go-snmp-olt-zte-c320",
+    "last_update": "2024-11-1"
+  }
 ]
