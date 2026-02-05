@@ -10,6 +10,16 @@
             "github": "https://github.com/freedarwuin/NetBillX-Assets-Manager",
             "last_update": "2025-11-17"
         },
+        {
+            "id": "Alternative-WhatsApp-Gateway-Plugin-for-NetBillX",
+            "name": "Complemento alternativo de WhatsApp Gateway",
+            "description": "Este complemento se creó para proporcionar una puerta de enlace alternativa de WhatsApp para PHPNuxBill. Permite a los usuarios enviar y recibir mensajes por WhatsApp mediante una puerta de enlace personalizada.",
+            "ispaid": false,
+            "author": "Freedarwuin",
+            "url": "https://github.com/freedarwuin/Alternative-WhatsApp-Gateway-Plugin-for-NetBillX",
+            "github": "https://github.com/freedarwuin/Alternative-WhatsApp-Gateway-Plugin-for-NetBillX",
+            "last_update": "2026-01-28"
+        },
 		{
 			"id": "NetBillX-router-monitor-plugin",
 			"name": "Monitoreo de Mikrotik",
